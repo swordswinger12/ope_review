@@ -1,0 +1,17 @@
+BCLO '09
+Boldyreva '11
+popa/zeldovich encoding
+scapegoat tree optimization
+UT Dallas note on ideal object
+multi-user OPE
+optimization to choosing range gap based on dist of plaintexts
+tokenization, protegrity patent
+david M tokenization patent
+kolesnikov and shifka
+disclosure-resilient ope
+agrawal '04
+pandey and rouselakis
+range queries (waters/boneh, multidimensional range query paper)
+order-preserving string compression
+cryptdb
+malkin, teranishi, yung
