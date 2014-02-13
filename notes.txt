@@ -1,4 +1,4 @@
-
+http://www.aco.gatech.edu/doc/chenette-thesis.pdf
 Secure Comparison of Encrypted Data in Wireless Sensor Networks
 Protection and Retrieval of Encrypted Multimedia Content: When Cryptography Meets Signal Processing
 Efﬁcient Secure Query Evaluation over Encrypted XML Databases
