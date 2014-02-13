@@ -1,4 +1,7 @@
 
+Secure Comparison of Encrypted Data in Wireless Sensor Networks
+Protection and Retrieval of Encrypted Multimedia Content: When Cryptography Meets Signal Processing
+Efﬁcient Secure Query Evaluation over Encrypted XML Databases
 mv-opes:
 An Encryption Scheme to Prevent Statistical Attacks in the DAS Model
 A Secure and Efficient Order Preserving Encryption Scheme for Relational Databases.(paywall)
@@ -43,5 +46,6 @@ Nonlinear order preserving index for encrypted database query in service cloud e
 
 range queries:
 waters/boneh (Conjunctive, subset, and range queries on encrypted data)
-Secure Multidimensional Range Queries over Outsourced Data
+Secure Multidimensional Range Queries over Outsourced Data(Hore et al.)
 Multi-Dimensional Range Query over Encrypted Data (Shi et al.)
+A Privacy-Preserving Index for Range Queries(Hore et al.)
